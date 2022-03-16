@@ -1,2 +1,3 @@
 # Crude-Oil-Predictions
-Predicts Crude Oil Price
+Predicts Crude Oil Price using sklearn
+
